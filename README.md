@@ -1,2 +1,8 @@
 # student-portal-demo
-Giving basic idea about student application
+In student portal we have:
+-->course details
+-->Class materials
+-->Academic Records
+-->Financial Information
+-->Attendance Tracking
+-->Profile Management
